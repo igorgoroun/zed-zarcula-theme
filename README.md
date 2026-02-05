@@ -3,6 +3,11 @@
 
 Zarcula is a dark theme for the [Zed editor](https://zed.dev) inspired by JetBrains Darcula – but tuned specifically for Zed’s UI, terminal, and collaborative editing experience.
 
+![Zarcula: Darcula’s sophisticated cousin, custom-built for Zed.](./assets/zarcula-preview.png)
+
+[Git Panel & HTOP](assets/git-panel-python-htop.png) | [Project Panel & Python](assets/project-panel-python.png) | [Outline Panel & Json & MD](assets/outline-panel-json-md-logs.png)
+
+
 
 ## Features
 
