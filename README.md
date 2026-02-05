@@ -14,8 +14,7 @@ Zarcula is a dark theme for the [Zed editor](https://zed.dev) inspired by JetBra
 Darcula’s sophisticated cousin, custom-built for Zed.
 
 
-- **Cohesive UI**  
-  Carefully matched backgrounds and borders for:
+- **Carefully matched backgrounds and borders for**  
   - Editor and gutter
   - Panels and toolbars
   - Tabs, status bar, and title bar
@@ -78,8 +77,6 @@ Feedback and contributions are welcome:
 3. Open a pull request on GitHub:
 
    `https://github.com/igorgoroun/zed-zarcula-theme`
-
-If you have specific language or UI tweaks you’d like to see (e.g. better distinction for a given language’s types, or different diagnostics contrast), feel free to open an issue.
 
 
 ## License

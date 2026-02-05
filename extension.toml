@@ -1,7 +1,7 @@
-id = "zed-zarcula-theme"
+id = "zarcula-theme"
 name = "Zarcula"
-version = "0.1.0"
+version = "0.1.2"
 schema_version = 1
-authors = ["Ihor Horun"]
-description = "Zarcula: Darcula’s sophisticated cousin, custom-built for Zed."
+authors = ["Ihor Horun <igor.goroun@gmail.com>"]
+description = "Darcula’s sophisticated cousin, custom-built for Zed."
 repository = "https://github.com/igorgoroun/zed-zarcula-theme"
