@@ -37,10 +37,9 @@ Darcula’s sophisticated cousin, custom-built for Zed.
 You can install Zarcula directly from within Zed:
 
 1. Open Zed.
-2. Press `Ctrl+,` / `Cmd+,` to open **Settings**.
-3. Go to the **Extensions** tab.
-4. Search for **"Zarcula"** or **`zed-zarcula-theme`**.
-5. Click **Install**.
+2. Open the command palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) and enter _zed: extensions_.
+3. Search for **"Zarcula"** or **`zed-zarcula-theme`** extension and install.
+4. Click **Install**.
 
 Or, if you’re using this repository locally during development:
 
@@ -50,7 +49,6 @@ Or, if you’re using this repository locally during development:
 2. Open the folder in Zed.
 3. Zed will detect the extension manifest (`extension.toml`) and offer to load the theme.
 
----
 
 ## Activation
 
