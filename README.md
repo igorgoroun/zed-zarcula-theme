@@ -74,11 +74,9 @@ Feedback and contributions are welcome:
 
 1. Fork the repo.
 2. Make your changes to `themes/zed-zarcula-theme.json`.
-3. Open a pull request on GitHub:
-
-   `https://github.com/igorgoroun/zed-zarcula-theme`
+3. Open a pull request on [GitHub](https://github.com/igorgoroun/zed-zarcula-theme)
 
 
 ## License
 
-See the [`LICENSE`](./LICENSE) file in this repository for details.
+See the [LICENSE](./LICENSE) file in this repository for details.
